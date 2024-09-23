@@ -1,0 +1,3 @@
+C:/Users/Samantha/CS118/GitHub/emission-escapes-pt2/cmake-build-debug/CMakeFiles/emission_escapes_pt2.dir
+C:/Users/Samantha/CS118/GitHub/emission-escapes-pt2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samantha/CS118/GitHub/emission-escapes-pt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
